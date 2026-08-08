@@ -6,7 +6,7 @@ https://discord.gg/SMKkrhs7M
 📁 Project Directory
 
 
-**Miau-** is a cleaned-up project based on the **Project-Miau** base, created to continue improving, refining, and expanding the client.
+**Miau-** project based on the **Project-Miau** it make for something cool idk :P.
 
 
 
